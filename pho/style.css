@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: 40%;
+    margin-right: 50%;
+}
+
+.images {
+    background-color: yellow;
+}
+
+p {
+    text-align: center;
+}
+
+.ingredients, .steps {
+    padding-left: 40%;
+}
+
+.ingredients {
+    background-color: lightgreen;
+}
+
+.steps {
+    background-color: tan;
+}
+
+.ingredients, .steps, .images{
+    border-radius: 25px;
+}

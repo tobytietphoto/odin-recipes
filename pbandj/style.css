@@ -24,7 +24,6 @@ p {
     background-color: tan;
 }
 
-p, .image, .recipe,
-.ingredients {
+p, .image, .recipe, .ingredients{
 border-radius: 50px;
 }
